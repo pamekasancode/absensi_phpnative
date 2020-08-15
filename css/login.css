@@ -52,7 +52,7 @@ header h1 {
 }
 
 footer {
-	position: absolute;
+	position: fixed;
 	width: 100%; 
 	bottom: 0;
 	color: #4e4e4e;
