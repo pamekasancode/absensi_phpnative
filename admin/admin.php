@@ -50,7 +50,7 @@ if (isset($_POST["admin"])) {
 				<input type="password" name="pass" placeholder="Password" autocomplete="off" required>	
 			</div>
 			<div class="input">
-				<button type="submit" name="admin">Masuk</button><a href="../login.php">Masuk sebagai siswa</a>
+				<button type="submit" name="admin">Masuk</button><a href="../login.php">Siswa?</a>
 			</div>
 		</form>
 	</div>
