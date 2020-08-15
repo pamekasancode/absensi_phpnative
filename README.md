@@ -13,5 +13,5 @@ Web absensi siswa php native
 - Import database web absensi
 
 # Admin
-Username : admin
-Password : pamekasancode
+- Username : admin
+- Password : pamekasancode
