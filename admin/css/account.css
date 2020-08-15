@@ -1,0 +1,43 @@
+nav {
+  background-color: #00bdff !important;
+  box-shadow: none !important;
+}
+
+nav i {
+  color: #fff;
+}
+
+.main {
+    margin-top: 40px;
+} 
+
+.main button {
+  height: 40px;
+  width: 80px;
+  border: none;
+  background-color: #01ff82;
+  color: white;
+  border-radius: 5px;
+  outline: none;
+
+}
+
+button {
+  transition: .3s;
+}
+
+button:hover,
+button:focus {
+  background-color: #00bdff !important;
+  transform: scale(0.95);
+}
+
+
+footer {
+  position: absolute;
+  width: 100%; 
+  bottom: 0;
+  color: #4e4e4e;
+  text-align: center;
+  line-height: 5px;
+}
